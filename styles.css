@@ -49,6 +49,7 @@ a:active{
 .section-one{
     background-color: #1F2937;
     display: flex;
+    justify-content: space-around;
 }
 
 .main{
@@ -62,4 +63,13 @@ p{
 
 ul{
     list-style-type: none;
+}
+
+#sign-up-one{
+    display: inline-block;
+    background-color: #3882F6;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 25x;
 }
