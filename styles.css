@@ -50,3 +50,16 @@ a:active{
     background-color: #1F2937;
     display: flex;
 }
+
+.main{
+    font-size: 48px;
+    color:#FFFFFF;
+}
+
+p{
+    color: #FFFFFF;
+}
+
+ul{
+    list-style-type: none;
+}
