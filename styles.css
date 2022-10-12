@@ -28,6 +28,7 @@ a:active{
 
 .header-links{
     background-color: #1F2937;
+    display: flex;
 }
 
 #color-white{
