@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 
 .links-one{
@@ -8,6 +9,8 @@ body{
     justify-content: flex-end;
     align-items: center;
     gap: 15px;
+    margin: 0px;
+    padding: 20px;
 }
 
 a:link{
