@@ -97,3 +97,11 @@ ul{
     width: 525px;
     height:200px
 }
+
+/*section two*/
+
+.header-two{
+    font-size: 36px;
+    color: #1F3937;
+    font-weight: 900;
+}
