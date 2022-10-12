@@ -4,6 +4,7 @@ body{
 
 .links-one{
     list-style-type: none;
+    display: flex;
 }
 
 a:link{
@@ -28,7 +29,6 @@ a:active{
 
 .header-links{
     background-color: #1F2937;
-    display: flex;
 }
 
 #color-white{
