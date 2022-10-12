@@ -5,6 +5,7 @@ body{
 .links-one{
     list-style-type: none;
     display: flex;
+    justify-content: flex-end;
 }
 
 a:link{
@@ -34,4 +35,5 @@ a:active{
 #color-white{
     color:#FFFFFF;
     font-size: 24px;
+    flex-grow: 2;
 }
