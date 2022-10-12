@@ -52,6 +52,7 @@ a:active{
     justify-content: center;
     align-items: center;
     gap:50px;
+    padding-top: 80px;
 }
 
 .main{
