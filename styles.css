@@ -6,7 +6,7 @@ body{
 .links-one{
     list-style-type: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     gap: 15px;
     margin: 0px;
@@ -49,8 +49,7 @@ a:active{
 .section-one{
     background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .main{
@@ -73,4 +72,15 @@ ul{
     border-radius: 5px;
     font-weight: bold;
     font-size: 25x;
+}
+
+.first-box{
+    display: flex;
+    width: 40%;
+    flex-wrap: wrap;
+    flex-shrink: 2;
+}
+
+.second-box{
+
 }
