@@ -50,6 +50,7 @@ a:active{
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .main{
