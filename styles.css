@@ -102,9 +102,13 @@ ul{
 /*section two*/
 
 .header-two{
+    display: flex;
     font-size: 36px;
     color: #1F3937;
     font-weight: 900;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .two-text{
@@ -112,6 +116,7 @@ ul{
     color: #1F2937;
     width: 200px;
     text-align: center;
+    margin-left: 0px;
 }
 
 .box-one{
