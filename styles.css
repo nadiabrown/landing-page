@@ -141,6 +141,8 @@ ul{
 
 .section-three{
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote{
