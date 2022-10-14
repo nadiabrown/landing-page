@@ -143,6 +143,7 @@ ul{
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .quote{
@@ -155,5 +156,7 @@ ul{
 .source{
     font-weight: bolder;
     width: 825px;
+    text-align: right;
+    align-items: flex-end;
 }
 
