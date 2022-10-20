@@ -79,7 +79,7 @@ ul{
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 25x;
+    font-size: 25px;
     margin: 0px;
 }
 
@@ -173,5 +173,20 @@ ul{
     margin:auto;
     margin-top: 85px;
     margin-bottom: 85px;
+}
+
+.heading{
+    color:#FFFFFF;
+    font-size: 26px;
+}
+
+.text-four{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up-two{
+    color:#FFFFFF;
+    font-size: 25px;
 }
 
