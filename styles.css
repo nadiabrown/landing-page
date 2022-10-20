@@ -173,6 +173,9 @@ ul{
     margin:auto;
     margin-top: 85px;
     margin-bottom: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .heading{
