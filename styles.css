@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0px;
+    padding: 0px;
 }
 
 .links-one{
@@ -167,5 +168,10 @@ ul{
 
 .section-four{
     background-color: #3882F6;
+    width: 1000px;
+    height: 150px;
+    margin:auto;
+    margin-top: 85px;
+    margin-bottom: 85px;
 }
 
